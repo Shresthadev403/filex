@@ -1,0 +1,22 @@
+{
+  "name": "filex",
+  "version": "1.0.0",
+  "description": "a cli for file details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shresthadev403/filex.git"
+  },
+  "author": "jagadish shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shresthadev403/filex/issues"
+  },
+  "homepage": "https://github.com/Shresthadev403/filex#readme",
+  "dependencies": {
+    "commander": "^9.4.1"
+  }
+}
